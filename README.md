@@ -1,4 +1,4 @@
-#vedgrow_DS_01
+vedgrow_DS_01
 # Titanic EDA Project
 
 ## Objective
