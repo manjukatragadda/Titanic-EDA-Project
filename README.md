@@ -1,4 +1,4 @@
-vedgrow_DS_01
+Vedgrow_DS_01(DATA SCIENCE,TASK 01)
 # Titanic EDA Project
 
 ## Objective
